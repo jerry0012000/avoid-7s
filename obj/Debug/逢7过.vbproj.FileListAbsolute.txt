@@ -1,0 +1,5 @@
+C:\Users\Jerry\Documents\SharpDevelop Projects\逢7过\逢7过\obj\Debug\逢7过.vbprojResolveAssemblyReference.cache
+C:\Users\Jerry\Documents\SharpDevelop Projects\逢7过\逢7过\bin\Debug\逢7过.exe
+C:\Users\Jerry\Documents\SharpDevelop Projects\逢7过\逢7过\bin\Debug\逢7过.pdb
+C:\Users\Jerry\Documents\SharpDevelop Projects\逢7过\逢7过\obj\Debug\逢7过.exe
+C:\Users\Jerry\Documents\SharpDevelop Projects\逢7过\逢7过\obj\Debug\逢7过.pdb
